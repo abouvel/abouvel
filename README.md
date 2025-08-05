@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Computer Science student at the University of Michigan with experience in full-stack development, AI/ML agents and workflows, and low-latency C++ programming.
+I'm a Computer Science student at the University of Michigan with experience in full-stack development, AI/ML agents and workflows, and C++ programming.
 
 Currently, I'm focused on integrating intelligent agents into real-world full-stack applications. I'm also exploring the intersection of software and financial markets—experimenting with Polymarket’s API and building tools around market data and prediction systems.
 
