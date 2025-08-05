@@ -1,4 +1,9 @@
 ## Hi there 👋
+I am a Computer Science Student at the University of Michigan. I have experience with full-stack development, AI/ML agents and workflows, and low latency C++ programming. 
+
+Right now I am integrating AI agents and workflows into fullstack application
+
+I am interested in Software Engineering and Quantitative Development or Trading. Feel free to reach out at abouvel@umich.edu 
 
 <!--
 **abouvel/abouvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
