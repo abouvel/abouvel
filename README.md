@@ -8,6 +8,9 @@ I'm particularly interested in roles in Software Engineering, Quantitative Devel
 
 Feel free to reach out: abouvel@umich.edu
 
+[![Austins's GitHub stats](https://github-readme-stats.vercel.app/api?username=abouvel)](https://github.com/abouvel/github-readme-stats)
+
+
 <!--
 **abouvel/abouvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
